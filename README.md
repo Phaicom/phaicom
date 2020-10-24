@@ -6,6 +6,6 @@ I'm interested in freelance/remote work, so if you want to learn me a little, fe
 
 ### What am I doing now? 🤔
 
-- 🌱 I’m currently learning [Storybook](https://storybook.js.org/), Improving my skills on both [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/).
+- 🌱 I’m currently learning [Svelte](https://svelte.dev/), Improving my skills on both [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/).
 - 📫 How to reach me: [reawpai.chun@yahoo.com](mailto:reawpai.chun@yahoo.com).
 - ⚡ Fun fact: **I love noodle** 🍜
